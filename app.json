@@ -20,7 +20,7 @@
       },
       "USER_IMAGES": {
         "description": "Menu Images",
-        "value": "https://telegra.ph/file/19a5920ad37f6ad3962a2.jpg",
+        "value": "https://telegra.ph/file/750644fdd9b9354e88464.mp4",
         "required": false
       },
   
@@ -35,7 +35,7 @@
       },
       "THUMB_IMAGE": {
         "description": "Thumbnail",
-        "value": "https://i.imgur.com/H4qeXwa.jpeg"
+        "value": "https://telegra.ph/file/1097a851cb9c36c23a350.jpg"
       },
       "BOT_NAME": {
         "description": " NAME FOR BOT",
